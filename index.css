@@ -1,0 +1,21 @@
+.display-flex {
+    display: flex;
+  }
+    h1 {
+        text-align: center;
+        color: red;
+        margin-top: -80px;
+    }
+    body {
+        background-color: yellow;
+    }
+    .mezange {
+      cursor: pointer; 
+    }
+    #count {
+        color: red;
+        font-size: 20pt;
+        font-weight: bolder;
+        border: black solid 2px;
+        border-radius: 10px;
+    }
