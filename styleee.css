@@ -1,0 +1,39 @@
+input {
+    background-color: yellow;
+  }
+  button {
+    background-color: yellow;
+    cursor: pointer;
+  }
+  .pt {
+    font-size: 20pt;
+    vertical-align: middle;
+  }
+  body {
+    background-image: url(YunranoCollectiveOne.png);
+  }
+  @keyframes rotating {
+        from {
+            transform: rotate(var(--rotation-start, 0deg)); 
+        }
+        to {
+            transform: rotate(var(--rotation-end, 360deg)); 
+        }
+    }
+    .rotating {
+        animation: rotating 0.5s linear infinite;
+    }
+.platon {
+  margin-left: 100px;
+  animation: rotating 0.5s linear infinite;
+}
+.bakataida {
+  margin-left: 100px;
+  animation: rotating 0.5s linear infinite;
+  margin: center;
+}
+.haut {
+  height: 35px;
+  border: 2px black solid;
+  background-color: yellow;
+}
