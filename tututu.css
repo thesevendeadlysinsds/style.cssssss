@@ -1,0 +1,12 @@
+@media (min-width:440px) {
+    #suno-link {
+        width: 420px;
+        height: 15px;
+    }
+}
+@media (max-width:440px) {
+    #suno-link {
+        width: 99% !important;
+        height: 100px;
+    }
+}
