@@ -105,6 +105,7 @@
         #loop-btn, #afficher-le-lien {
             font-family: 'Inter', sans-serif;
             font-size: 1.5em;
+            cursor: pointer;
         }
 
         @media (min-width: 1554px) {
