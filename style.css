@@ -102,7 +102,7 @@
             font-family: 'Inter', sans-serif;
         }
 
-        #loop-btn {
+        #loop-btn, #afficher-le-lien {
             font-family: 'Inter', sans-serif;
             font-size: 1.5em;
         }
