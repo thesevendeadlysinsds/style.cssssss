@@ -102,7 +102,7 @@
             font-family: 'Inter', sans-serif;
         }
 
-        #loop-btn, #afficher-le-lien, .toto2 {
+        #loop-btn, #afficher-le-lien, .toto2, #matobutton {
             font-family: 'Inter', sans-serif;
             font-size: 1.5em;
             cursor: pointer;
